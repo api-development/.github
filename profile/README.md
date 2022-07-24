@@ -19,11 +19,10 @@ Revolutionize your organization with a high quality service from API Development
 ###  💡 Quality Services
 - Quality services and thoughtfully crafted that make your business move forward with us.
 
-## Why API Development?
-
+## Why API Development?.
 ---
 ### 💻 Created with the latest technologies.
-We use the latest technologies and tools in order to create a better service that not only works great, but it is very easy to work with too.
+We use the latest technologies and tools in order to create a better service that isn't only works great, but it is very easy to work with too.
 
 ### 👮 Free SSL for website and many more
 - Feel assured by the safety of your website by using SSL, and enjoy higher rankings on Google. Many more for another services.
