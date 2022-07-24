@@ -1,4 +1,4 @@
-## Hi there, API here 👋
+## Hi there, API Development here 👋
 ---
 ![BG_API](https://user-images.githubusercontent.com/48949523/180634996-f6e0c104-cc71-40e6-92c7-9e2dacae2e05.png)
 ---
@@ -19,18 +19,19 @@ Revolutionize your organization with a high quality service from API Development
 ###  💡 Quality Services
 - Quality services and thoughtfully crafted that make your business move forward with us.
 
+## Why API Development?
+We use the latest technologies and tools in order to create a better service that not only works great, but it is very easy to work with too.
+---
+### 💻 Created with the latest technologies
+- We use the latest technologies and tools in order to create a better service that isn't only works great, but it is very easy to work with too.
 
+### 👮 Free SSL for website and many more
+- Feel assured by the safety of your website by using SSL, and enjoy higher rankings on Google. Many more for another services.
 
+### 💞 Made for great first impressions
+- We work with our partners to provide the best possible service. Whether it is a website service to applications and many others.
 
+---
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Beyond The Limit
+We can help your organization moving forward into the future with the latest technology and services provided by API Development Corporation and our partner, which will help your organization achieve future goals.
